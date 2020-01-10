@@ -1,16 +1,10 @@
 # congresos
 
-A new Flutter application.
+Esta es la app de Congresos y solo funciona en IOS y Android. Para hacer la verison mobile hay que remplazar las dependencias de connectivity y webview_flutter.
 
-## Getting Started
+La siguiente app no manejos de estados avanzados. Estaran haciando implementados al pasar de los dias para mejorar la experiencia de usuario y rapidez del app.
 
-This project is a starting point for a Flutter application.
+Peso del app inicial fue de 15mb
+Peso del app actual es de 6mb
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bajo un 40% de memoria utilizada. 
